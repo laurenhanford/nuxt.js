@@ -75,7 +75,7 @@
     "babel-loader": "^7.1.4",
     "babel-preset-vue-app": "^2.0.0",
     "cache-loader": "^1.2.2",
-    "caniuse-lite": "^1.0.30000824",
+    "caniuse-lite": "^1.0.30001251",
     "chalk": "^2.3.2",
     "chokidar": "^2.0.3",
     "compression": "^1.7.1",
