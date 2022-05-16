@@ -70,7 +70,7 @@
   "dependencies": {
     "@nuxtjs/friendly-errors-webpack-plugin": "^2.0.2",
     "@nuxtjs/youch": "^4.2.3",
-    "autoprefixer": "^8.2.0",
+    "autoprefixer": "^9.0.0",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
     "babel-preset-vue-app": "^2.0.0",
@@ -81,7 +81,7 @@
     "compression": "^1.7.1",
     "connect": "^3.6.5",
     "consola": "^1.2.0",
-    "css-loader": "^0.28.11",
+    "css-loader": "^1.0.0",
     "es6-promise": "^4.2.4",
     "esm": "^3.0.16",
     "etag": "^1.8.1",
