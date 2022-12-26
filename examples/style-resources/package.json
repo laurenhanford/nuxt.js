@@ -2,7 +2,7 @@
   "name": "example-style-resources",
   "dependencies": {
     "less": "^2.7.3",
-    "less-loader": "^4.0.5",
+    "less-loader": "^6.0.0",
     "nuxt": "latest"
   },
   "scripts": {
