@@ -34,7 +34,7 @@
     "nedb": "^1.8.0",
     "nuxt": "latest",
     "passport": "^0.3.2",
-    "winston": "^2.3.0"
+    "winston": "^3.3.0"
   },
   "devDependencies": {
     "eslint-plugin-mocha": "^4.11.0",
