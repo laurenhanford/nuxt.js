@@ -12,7 +12,7 @@
   "devDependencies": {
     "autoprefixer": "^7.1.6",
     "glob-all": "^3.1.0",
-    "purgecss-webpack-plugin": "^0.20.1",
+    "purgecss-webpack-plugin": "^7.0.2",
     "tailwindcss": "^0.1.3"
   }
 }
