@@ -26,7 +26,7 @@
     "@storybook/addon-storyshots": "^3.4.0-alpha.7",
     "@storybook/addon-viewport": "^3.4.0-alpha.7",
     "@storybook/addons": "^3.4.0-alpha.7",
-    "@storybook/vue": "^3.4.0-alpha.7",
+    "@storybook/vue": "^7.6.17",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1"
   }
