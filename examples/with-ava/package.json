@@ -7,7 +7,7 @@
     "test": "ava --serial --verbose"
   },
   "devDependencies": {
-    "ava": "^0.19.1",
+    "ava": "^0.20.0",
     "jsdom": "^11.0.0"
   },
   "dependencies": {
